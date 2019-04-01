@@ -13,3 +13,6 @@ For this assignment we were tasked with building a dynamic programming function 
 To Run:
 1) javac dynProg.java
 2) java dynProg < inSampleSmall.txt
+
+
+--- Both files should contain a short description of the problem and the implementation ---
