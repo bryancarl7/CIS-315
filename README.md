@@ -15,4 +15,6 @@ To Run:
 2) java dynProg < inSampleSmall.txt
 
 
+
+
 --- Both files should contain a short description of the problem and the implementation ---
